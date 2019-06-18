@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edan/CLionProjects/ex5osP2/main.c
+string.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+signal.h
+-
+

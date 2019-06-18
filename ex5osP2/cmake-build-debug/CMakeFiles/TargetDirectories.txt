@@ -1,0 +1,3 @@
+/home/edan/CLionProjects/ex5osP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/edan/CLionProjects/ex5osP2/cmake-build-debug/CMakeFiles/ex5osP2.dir
+/home/edan/CLionProjects/ex5osP2/cmake-build-debug/CMakeFiles/edit_cache.dir

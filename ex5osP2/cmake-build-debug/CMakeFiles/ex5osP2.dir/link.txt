@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex5osP2.dir/main.c.o  -o ex5osP2 
